@@ -27,13 +27,6 @@ Votes are simultaneously written to the ESP32's internal Non-Volatile Storage (N
 ### 5. Hardware Debouncing & Multi-Press Protection
 Inputs are safeguarded with software-defined debounce delays and simultaneous multi-button-press rejection logic to ensure absolute voter intent accuracy.
 
-## 📸 System Demonstration
-*(Upload your best hardware setup photo to the `Media` folder, then link it here like this:)*
-![Hardware Setup](Media/setup_photo.jpg)
-
-*(Link your video here - GitHub allows embedding MP4s directly if they are under 10MB, otherwise upload to YouTube and link here):*
-[Watch the System Demonstration Video Here](link-to-your-video)
-
 ## ⚙️ Setup and Installation
 ### Host PC Setup
 1. Clone the repository.
