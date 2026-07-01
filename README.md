@@ -39,23 +39,23 @@ Inputs are safeguarded with software-defined debounce delays and simultaneous mu
 Below is the real-time interaction between the physical voting appliance and the desktop dashboard application:
 
 ### Host Dashboard Initialization
-<img src="Media/1" width="400" alt="Dashboard System Initialization">
+<img src="Media/1.jpeg" width="400" alt="Dashboard System Initialization">
 
 ### Hardware Unit Authorization Hook
-<img src="Media/2" width="400" alt="ESP32 Unit Live Authorization State">
+<img src="Media/2.jpeg" width="400" alt="ESP32 Unit Live Authorization State">
 
 ### Interactive Candidate Selection
-<img src="Media/3" width="400" alt="Voter Component Interaction Input">
+<img src="Media/3.jpeg" width="400" alt="Voter Component Interaction Input">
 
 ### Fraud Prevention & Duplicate Vote Rejection
-<img src="Media/4" width="400" alt="Database Double-Voting Alert System">
+<img src="Media/4.jpeg" width="400" alt="Database Double-Voting Alert System">
 
 ### Secure Audit Tally Verification
-<img src="Media/5" width="400" alt="Final Ledger Integrity Check Validation">
+<img src="Media/5.jpeg" width="400" alt="Final Ledger Integrity Check Validation">
 
 ### 🎥 Real-Time Verification Demonstration
 *(Embedded video player showcasing complete hardware-in-the-loop validation flow)*
-<img src="Media/Video" width="600" alt="Live End-to-End System Demonstration Video">
+<img src="Media/Video.mp4" width="600" alt="Live End-to-End System Demonstration Video">
 
 ## 🔌 Hardware Pinout Configuration
 | ESP32 Pin | Interface | Component Connection | Notes |
