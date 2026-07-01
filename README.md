@@ -53,10 +53,6 @@ Below is the real-time interaction between the physical voting appliance and the
 ### Secure Audit Tally Verification
 <img src="Media/5.jpeg" width="400" alt="Final Ledger Integrity Check Validation">
 
-### 🎥 Real-Time Verification Demonstration
-*(Embedded video player showcasing complete hardware-in-the-loop validation flow)*
-<img src="Media/Video.mp4" width="600" alt="Live End-to-End System Demonstration Video">
-
 ## 🔌 Hardware Pinout Configuration
 | ESP32 Pin | Interface | Component Connection | Notes |
 | :--- | :--- | :--- | :--- |
